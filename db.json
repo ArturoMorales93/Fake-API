@@ -1,0 +1,47 @@
+{
+    "ultimoSorteo": {
+        "id": 2138
+    },
+    "numerosTop": [
+        {
+            "num": 10,
+            "cant": 11
+        },
+        {
+            "num": 28,
+            "cant": 11
+        },
+        {
+            "num": 37,
+            "cant": 11
+        },
+        {
+            "num": 6,
+            "cant": 10
+        },
+        {
+            "num": 7,
+            "cant": 10
+        },
+        {
+            "num": 11,
+            "cant": 10
+        },
+        {
+            "num": 15,
+            "cant": 10
+        },
+        {
+            "num": 18,
+            "cant": 10
+        },
+        {
+            "num": 36,
+            "cant": 10
+        },
+        {
+            "num": 40,
+            "cant": 10
+        }
+    ]
+}
