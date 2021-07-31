@@ -1,11 +1,15 @@
 {
     "ultimoSorteo": {
-        "id": 2151,
-        "fecha": "21/07/2021"
+        "id": 2153,
+        "fecha": "28/07/2021"
     },
     "numerosTop": [
         {
             "num": 12,
+            "cant": 13
+        },
+        {
+            "num": 14,
             "cant": 13
         },
         {
