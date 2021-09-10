@@ -1,48 +1,32 @@
 {
     "ultimoSorteo": {
-        "id": 2160,
-        "fecha": "21/08/2021"
+        "id": 2165,
+        "fecha": "08/09/2021"
     },
     "numerosTop": [
         {
             "num": 14,
-            "cant": 15
+            "cant": 16
         },
         {
             "num": 15,
-            "cant": 14
-        },
-        {
-            "num": 7,
-            "cant": 13
-        },
-        {
-            "num": 9,
-            "cant": 13
-        },
-        {
-            "num": 12,
-            "cant": 13
-        },
-        {
-            "num": 30,
-            "cant": 13
-        },
-        {
-            "num": 35,
-            "cant": 13
-        },
-        {
-            "num": 36,
-            "cant": 13
-        },
-        {
-            "num": 37,
-            "cant": 13
+            "cant": 15
         },
         {
             "num": 40,
-            "cant": 13
+            "cant": 15
+        },
+        {
+            "num": 11,
+            "cant": 14
+        },
+        {
+            "num": 35,
+            "cant": 14
+        },
+        {
+            "num": 36,
+            "cant": 14
         }
     ]
 }
